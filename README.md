@@ -1,5 +1,7 @@
 # 🎁 Proyecto Amigo Secreto
 
+🔗 **[Haz clic aquí para probar la aplicación en vivo](https://albertorimolacalvo.github.io/challenge-Amigo-Secreto/)**
+
 Este proyecto es parte de un desafío de lógica de programación, cuyo objetivo es crear una aplicación web que permita a los usuarios ingresar nombres de amigos, visualizarlos en una lista y realizar un sorteo aleatorio para seleccionar un "amigo secreto".
 
 ## 🚀 Funcionalidades
